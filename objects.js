@@ -1,4 +1,4 @@
-const playlist = {string1: string};
+const playlist = {artistName: string};
 
 function updatePlaylist(object, string1, string2) {
   object[string1] = string2;
